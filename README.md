@@ -5,4 +5,5 @@
 
 
 <img src="./readme-assets/f1.png">
+<img src="./readme-assets/main.gif">
 
