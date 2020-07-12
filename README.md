@@ -4,5 +4,5 @@
 <h2 align="center"></h2>
 
 
-<img src="./readme_assets/f1.png" width="100%">
+<img src="./readme-assets/f1.png">
 
